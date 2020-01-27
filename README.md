@@ -1,3 +1,6 @@
+NOTICE: This readme is applicable to the original project that was forked and needs to be updated for this particular repository.
+=====================
+
 node-red-contrib-pid
 =====================
 
